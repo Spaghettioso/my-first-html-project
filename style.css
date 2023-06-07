@@ -1,3 +1,17 @@
-h1{
-    color: burlywood;
+*{ background-color: #dbf0f9;
+    color: #333333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;  
+}
+
+.list {
+    color: rgb(240, 151, 166);
+    font-size: 30px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list-text{
+    background-color: #c0deeb;
+    font-style: italic;
 }
