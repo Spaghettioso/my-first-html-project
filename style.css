@@ -1,8 +1,12 @@
-*{ background-color: #dbf0f9;
+*{ 
+    background-color: #dbf0f9;
     color: #333333;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 200px;
-    margin-right: 200px;  
+ 
+}
+
+h1{
+    text-align: center;
 }
 
 .list {
