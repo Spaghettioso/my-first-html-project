@@ -9,6 +9,6 @@ if (hadBirthday === "yes"){
 else if (hadBirthday === "no"){
     alert ("By my calculations, you are " + (age - 1) + " years old!");
 }
-if (hadBirthday === "no" && (age >= 30)){
+if (hadBirthday === ("no" && age >= 30) || (age >= 31) ){
     alert ( "I'm sorry, " + usersName + " you are too old to view this website :( You cant be over 30 to view this website");
 }
